@@ -1,0 +1,6 @@
+{
+  "name": "startup-benefits-backend",
+  "version": "1.0.0",
+  "description": "Backend for startup benefits platform",
+  "main": "src/server.js"
+}
